@@ -46,3 +46,8 @@ function finalizarCompra() {
     carrinho = [];
     atualizarCarrinho();
 }
+
+
+
+
+
